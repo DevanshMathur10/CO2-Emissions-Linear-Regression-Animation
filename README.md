@@ -1,7 +1,7 @@
 # Linear Regression
 Predicting CO2 Emissions with linear regression in 1 variable with matplotlib animations.
 
-<img src="traindataengsize.gif" width=500><img src="testdataengsize.gif" width=500>
+<img src="traindataengsize.gif" width=400><img src="testdataengsize.gif" width=400>
 
 We have 3 constraints:
 <li>Engine Size</li>
